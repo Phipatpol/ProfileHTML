@@ -6,31 +6,31 @@ body{
 .table-menu{
     width:100%; 
     text-align: center;
-    background-color: #FEFDCA;
+    background-color: #f30000b4;
 }
 h1{
     text-align: center; 
     font-family: cursive;
-    background-color: #E0F9B5;
+    background-color: #f9c8b5c4;
 } 
 h4{
-    text-align: center; 
+    text-align: center; color: rgb(255, 255, 255);
     font-family: Aclonica; 
     font-weight: normal;
 }
 h5{ 
-    text-align: center; 
+    text-align: center; color: rgb(255, 255, 255);
     font-family: Aclonica; 
     font-weight: normal;
 }
 .table-content{
     margin-left: auto; 
     margin-right: auto;
-    background-color: #FEFDCA;
+    background-color: #fefdcaa4;
 }
 .ul-circle{
     list-style-type:circle;
-    background-color: #FFCFDF;
+    background-color: #ffcfdfb2;
 } 
 .ul-disc{
     list-style-type:disc;
